@@ -6,4 +6,6 @@ This repo will contain my End to End projects on:
 - CV
 - NLP
 
+= Including deployments
+
 Look into my other repositories for LLM and other specific projects
