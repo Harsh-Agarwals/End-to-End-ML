@@ -1,0 +1,89 @@
+
+File: src\wine_prediction\__init__.py
+dirname: src\wine_prediction, filename: __init__.py
+=====Making directory src\wine_prediction=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\components\__init__.py
+dirname: src\wine_prediction\components, filename: __init__.py
+=====Making directory src\wine_prediction\components=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\utils\__init__.py
+dirname: src\wine_prediction\utils, filename: __init__.py
+=====Making directory src\wine_prediction\utils=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\utils\common.py
+dirname: src\wine_prediction\utils, filename: common.py
+=====Making directory src\wine_prediction\utils=====
+=====Created file common.py=====
+
+File: src\wine_prediction\config\__init__.py
+dirname: src\wine_prediction\config, filename: __init__.py
+=====Making directory src\wine_prediction\config=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\config\configuration.py
+dirname: src\wine_prediction\config, filename: configuration.py
+=====Making directory src\wine_prediction\config=====
+=====Created file configuration.py=====
+
+File: src\wine_prediction\pipeline\__init__.py
+dirname: src\wine_prediction\pipeline, filename: __init__.py
+=====Making directory src\wine_prediction\pipeline=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\entity\__init__.py
+dirname: src\wine_prediction\entity, filename: __init__.py
+=====Making directory src\wine_prediction\entity=====
+=====Created file __init__.py=====
+
+File: src\wine_prediction\entity\config_entity.py
+dirname: src\wine_prediction\entity, filename: config_entity.py
+=====Making directory src\wine_prediction\entity=====
+=====Created file config_entity.py=====
+
+File: src\wine_prediction\constants\__init__.py
+dirname: src\wine_prediction\constants, filename: __init__.py
+=====Making directory src\wine_prediction\constants=====
+=====Created file __init__.py=====
+
+File: config\config.yaml
+dirname: config, filename: config.yaml
+=====Making directory config=====
+=====Created file config.yaml=====
+
+File: params.yaml
+dirname: , filename: params.yaml
+=====Created file params.yaml=====
+
+File: schema.yaml
+dirname: , filename: schema.yaml
+=====Created file schema.yaml=====
+
+File: main.py
+dirname: , filename: main.py
+=====Created file main.py=====
+
+File: app.py
+dirname: , filename: app.py
+=====Created file app.py=====
+
+File: requirements.txt
+dirname: , filename: requirements.txt
+=====Created file requirements.txt=====
+
+File: setup.py
+dirname: , filename: setup.py
+=====Created file setup.py=====
+
+File: research\trials.ipynb
+dirname: research, filename: trials.ipynb
+=====Making directory research=====
+=====Created file trials.ipynb=====
+
+File: templates\index.html
+dirname: templates, filename: index.html
+=====Making directory templates=====
+=====Created file index.html=====
